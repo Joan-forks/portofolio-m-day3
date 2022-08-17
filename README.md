@@ -1,8 +1,6 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Portofolio Mobile Project Week1/Day3
 
-# Microverse project day 2
-
-> This is a pilot Portfolio Project of the Microverse Curriculum Week1/Day3.
+> This is a pilot Portfolio Mobile Project of the Microverse Curriculum Week1/Day3.
 > It focusses on flexbox and pull request as opensource projects open for reviews.
 
 
